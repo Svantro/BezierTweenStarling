@@ -1,4 +1,4 @@
-package com.theintern.runjumperrun {
+package com.theintern.beziertween {
 	import starling.animation.Tween;
 
 	import flash.geom.Point;
